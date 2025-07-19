@@ -24,12 +24,6 @@ This internship is designed to equip you with hands-on knowledge and real-world 
 
 ---
 
-## 📬 Contact
-
-For questions or suggestions, feel free to raise an issue or contact the repo owner.
-
----
-
 > "Learning cybersecurity is not just about hacking — it's about understanding how the digital world works and protecting it."
 
 
