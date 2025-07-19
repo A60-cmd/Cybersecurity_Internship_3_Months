@@ -15,7 +15,6 @@ This internship is designed to equip you with hands-on knowledge and real-world 
 ---
 
 ## 📁 Folder Structure
-
 Cybersecurity_Internship_3_Months/
 ├── Month_1/
 │ ├── Orientation/
