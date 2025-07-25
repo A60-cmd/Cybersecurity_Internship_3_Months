@@ -1,11 +1,11 @@
 
 # 🛡️ Internship Task Report: Study & PoC on **AbuseIPDB** and **Shadowserver Foundation**
 
-### 👤 Intern Name: \Aditya Borade
+### 👤 Intern Name: Aditya Borade
 
-### 🏢 Organization: \Digisuraksha foundation
+### 🏢 Organization: Digisuraksha foundation
 
-### 📅 Date: \25-07-2025
+### 📅 Date: 25-07-2025
 
 ---
 
