@@ -204,6 +204,3 @@
 
 ---
 
-
-Let me know, and I’ll generate the files or instructions accordingly.
-
